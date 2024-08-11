@@ -978,3 +978,21 @@ ul li a:hover {
 .discl-text-2{
   text-align: center;
 }
+
+
+.wtsapp_float{
+  position: fixed;
+  bottom: 7vw;
+  right: 8px;
+  z-index: 999;
+  /* background:#93C54B; */
+  color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.wtsapp_float_btn{
+  font-size: 4rem;
+  color: #7FFF00;
+}
